@@ -1,4 +1,4 @@
-# Funnikulus
+# Spoof!
 
 ![Funnikulus Banner](./funnikulus-banner.png)
 
