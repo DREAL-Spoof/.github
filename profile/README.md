@@ -1,8 +1,8 @@
 # Spoof!
 
-![Funnikulus Banner](./funnikulus-banner.png)
+![Funnikulus Banner](./spoof-thumb.png)
 
-**XR · AI 기반 악몽 장애 치료 보조 서비스** | [Dream Labs](https://funnikulus.com/ko)
+**XR · AI 기반 악몽 장애 치료 보조 서비스** | [D`REAL](https://spoof.funnikulus.com/ko)
 
 ---
 
@@ -43,4 +43,4 @@ Funnikulus는 이 한계에서 출발해, **XR의 몰입도**를 IRT에 결합�
 
 ---
 
-**→ [funnikulus.com](https://funnikulus.com/ko)** · [스토리](https://funnikulus.com/ko/about) · [기대 효과](https://funnikulus.com/ko/effects) · [로드맵](https://funnikulus.com/ko/schedule) · [우리가 해온 일](https://funnikulus.com/ko/work)
+**→ [spoof.funnikulus.com](https://spoof.funnikulus.com/ko)** · [스토리](https://spoof.funnikulus.com/ko/about) · [기대 효과](https://spoof.funnikulus.com/ko/effects) · [로드맵](https://spoof.funnikulus.com/ko/schedule) · [우리가 해온 일](https://spoof.funnikulus.com/ko/work)
